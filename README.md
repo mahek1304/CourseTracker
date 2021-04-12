@@ -4,6 +4,8 @@
   
 # Technologies and Framework Used:
 
-  1.Bootstrap for frontend
-  2.Django for backend Installation: pip install django
-  3.beautifulsoup4 for web scrapping Installation: pip install beautifulsoup4
+  1. Bootstrap for frontend
+  2. Django for backend
+    Installation:   pip install django
+  3. beautifulsoup4 for web scrapping
+    Installation:   pip install beautifulsoup4
